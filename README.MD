@@ -32,15 +32,15 @@ The following diagrams show the overall FIFO structure, memory block, and pointe
 
 ### FIFO Architecture
 
-![FIFO Architecture](imgs/FIFO_Schematic.png)
+![FIFO Architecture](Async_FIFO_designing/imgs/FIFO_Schematic.png)
 
 ### FIFO Memory
 
-![FIFO Memory](imgs/fifo_mem.png)
+![FIFO Memory](Async_FIFO_designing/imgs/fifo_mem.png)
 
 ### Two-Stage Synchronizer
 
-![Two-Stage Synchronizer](imgs/2ff_sync.png)
+![Two-Stage Synchronizer](Async_FIFO_designing/imgs/2ff_sync.png)
 
 ## Parameters
 
@@ -66,15 +66,15 @@ The testbench generates separate read and write clocks with different periods an
 
 **Simulation 1**
 
-![Simulation 1](imgs/Sim/sim1.png)
+![Simulation 1](Async_FIFO_designing/imgs/Sim/sim1.png)
 
 **Simulation 2**
 
-![Simulation 2](imgs/Sim/sim2.png)
+![Simulation 2](Async_FIFO_designing/imgs/Sim/sim2.png)
 
 **Simulation 3**
 
-![Simulation 3](imgs/Sim/sim3.png)
+![Simulation 3](Async_FIFO_designing/imgs/Sim/sim3.png)
 
 ## Running the Simulation
 
